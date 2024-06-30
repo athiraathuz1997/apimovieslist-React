@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apimovieslist-React/static/css/main.e34ccffc.css",
+    "main.js": "/apimovieslist-React/static/js/main.97d87763.js",
+    "static/js/787.90f0e5dd.chunk.js": "/apimovieslist-React/static/js/787.90f0e5dd.chunk.js",
+    "index.html": "/apimovieslist-React/index.html",
+    "main.e34ccffc.css.map": "/apimovieslist-React/static/css/main.e34ccffc.css.map",
+    "main.97d87763.js.map": "/apimovieslist-React/static/js/main.97d87763.js.map",
+    "787.90f0e5dd.chunk.js.map": "/apimovieslist-React/static/js/787.90f0e5dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34ccffc.css",
+    "static/js/main.97d87763.js"
+  ]
+}
